@@ -1,9 +1,6 @@
 {
   "name": "shkoliar/magento-ngrok",
   "description": "Magento 2 module for ngrok.io service support",
-  "require": {
-    "magento/framework": "~103.2.0"
-  },
   "type": "magento2-module",
   "license": [
     "MIT"
